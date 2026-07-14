@@ -47,3 +47,4 @@ public:
     }
     return bouquetsCount >= m;
 }
+};
